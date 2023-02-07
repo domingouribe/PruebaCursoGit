@@ -1,0 +1,40 @@
+Los tres estados en Git:
+> Modified, staged, committed
+
+Comandos: 
+
+working directory    -    Staging Area    -    Local Repository
+(Modified)                  (Staged)               (Committed)
+             git add                   git commit
+
+
+
+Configuración inicial de Git:
+Añadir y o verificar datos de usuario:
+git config --global user.name y config --global user.mail
+
+Verificar: 
+git config --list
+
+Ó con:
+git config user.name para ver el nombre de usuario. Lo mismo con "mail".
+
+
+
+Crear repositorio desde consola:
+Primero, listamos en la carpeta en que queremos trabajar para verificar que no hay nada, con:
+ls
+
+Luego, inicializamos Git con:
+git init
+
+Luego listamos nuevamente mostrando los archivos ocultos, con:
+ls -a
+
+
+
+Abro VSCode, creo un archivo archivo.txt, y luego le doy git add para mandarlo al staging
+
+
+
+git add Para añadir todo
