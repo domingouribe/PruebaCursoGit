@@ -1,8 +1,1 @@
-Cualquier cosa que probará que si no hago un git add se indicará en los archivos sin seguimiento, abajo en rojo en la consola.
-
-Otra línea de texto
-Hola
-HHola
-hshshshss
-fgfgf
-ALgo
+Esto sí es un texto con sentido y real. Quiero dejar escrito que acá a mi derecha veo de reojo a mi gato Persian.
